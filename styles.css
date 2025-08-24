@@ -134,6 +134,7 @@ footer {
 
 @media (max-width: 780px) {
     body {
+        min-height: 100vh;
         display: flex;
         flex-direction: column;
     }
@@ -164,4 +165,5 @@ footer {
     iframe {
         height: 300px;
     }
+
 }
